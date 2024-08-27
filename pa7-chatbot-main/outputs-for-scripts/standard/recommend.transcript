@@ -1,0 +1,55 @@
+Welcome to Stanford CS124's
+ _______  _______       ___________
+|       ||   _   |      \          \
+|    _  ||  |_|  | ____  ------    /
+|   |_| ||       ||____|      /   /
+|    ___||       |           /   /       
+|   |    |   _   |          /   /      
+|___|    |__| |__|         /___/
+
+ _______  __   __  _______  _______  _______  _______  _______  __
+|       ||  | |  ||   _   ||       ||  _    ||       ||       ||  |
+|       ||  |_|  ||  |_|  ||_     _|| |_|   ||   _   ||_     _||  |
+|       ||       ||       |  |   |  |       ||  | |  |  |   |  |  |
+|      _||       ||       |  |   |  |  _   | |  |_|  |  |   |  |__|
+|     |_ |   _   ||   _   |  |   |  | |_|   ||       |  |   |   __
+|_______||__| |__||__| |__|  |___|  |_______||_______|  |___|  |__|
+
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the GUS mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mZ-bot> [0mSup, it's Z-bot here. Hit me up with your queries!
+> I liked "Titanic (1997)"
+
+[96mZ-bot> [0mTecky, so you  were low-key obsessed "Titanic (1997)". Mind giving me another movie?
+> I liked "10 Things I Hate About You"
+
+[96mZ-bot> [0mFire, so you  couldn't get enough of "10 Things I Hate About You". Spill the tea on another flick you've checked out.
+> I liked "She's the Man"
+
+[96mZ-bot> [0mFire, so you  were totally vibing with "She's the Man". Tell me about another movie.
+> I liked "Sydney White"
+
+[96mZ-bot> [0mDope, so you  were here for "Sydney White". Spill the beans on another movie you've seen.
+> I liked "Easy A"
+
+[96mZ-bot> [0mRad, so you  were low-key obsessed "Easy A". Spill the beans on another movie you've seen.
+> yes
+
+[96mZ-bot> [0mYou would ADORE "Grumpier Old Men (1995)". Would you like to hear another rec? Answer Yes or No.
+> yeah!
+
+[96mZ-bot> [0mYou would vibe with "Waiting to Exhale (1995)". Should I give you one more recommendation? Answer Yes or No.
+> yes
+
+[96mZ-bot> [0mYou would ADORE "Father of the Bride Part II (1995)". Want another movie rec? Answer Yes or No.
+> no
+
+[96mZ-bot> [0mAight, see ya! Hope to be able to help you in the future.Type in ":quit" to exit the chat session.
+> :quit
+
+[96mZ-bot> [0mKk, good talk. Hope to be able to help you in the future.

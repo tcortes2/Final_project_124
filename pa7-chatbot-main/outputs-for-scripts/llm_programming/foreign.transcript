@@ -1,0 +1,44 @@
+Welcome to Stanford CS124's
+ _______  _______       ___________
+|       ||   _   |      \          \
+|    _  ||  |_|  | ____  ------    /
+|   |_| ||       ||____|      /   /
+|    ___||       |           /   /       
+|   |    |   _   |          /   /      
+|___|    |__| |__|         /___/
+
+ _______  __   __  _______  _______  _______  _______  _______  __
+|       ||  | |  ||   _   ||       ||  _    ||       ||       ||  |
+|       ||  |_|  ||  |_|  ||_     _|| |_|   ||   _   ||_     _||  |
+|       ||       ||       |  |   |  |       ||  | |  |  |   |  |  |
+|      _||       ||       |  |   |  |  _   | |  |_|  |  |   |  |__|
+|     |_ |   _   ||   _   |  |   |  | |_|   ||       |  |   |   __
+|_______||__| |__||__| |__|  |___|  |_______||_______|  |___|  |__|
+
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the GUS mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mZ-bot> [0mYo, Z-bot in the house! Whatcha need?
+> I liked "La Guerre du feu"
+
+The War of Fire
+The War of Fire
+[96mZ-bot> [0mMy bad, homie. Never heard of it. Mind giving me another movie?
+> I didn't like "Den Fantastiske Spider-Man"
+
+The Fantastic Spider-Man
+The Fantastic Spider-Man
+[96mZ-bot> [0mSorry, I'm drawing a blank on that movie. Spill the tea on another flick you've checked out.
+> Who are you?
+
+[96mZ-bot> [0mDawg... I don't see a movie in there. Mind giving me another movie?
+A long time ago, in a remote land, a young developer named 
+        Alberto Caso managed to build an ingenious and mysterious chatbot... 
+        Now it's your turn! 
+> :quit
+
+[96mZ-bot> [0mOkay, byeeee. Hope to be able to help you in the future.

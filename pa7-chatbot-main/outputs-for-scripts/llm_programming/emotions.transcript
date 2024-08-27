@@ -1,0 +1,37 @@
+Welcome to Stanford CS124's
+ _______  _______       ___________
+|       ||   _   |      \          \
+|    _  ||  |_|  | ____  ------    /
+|   |_| ||       ||____|      /   /
+|    ___||       |           /   /       
+|   |    |   _   |          /   /      
+|___|    |__| |__|         /___/
+
+ _______  __   __  _______  _______  _______  _______  _______  __
+|       ||  | |  ||   _   ||       ||  _    ||       ||       ||  |
+|       ||  |_|  ||  |_|  ||_     _|| |_|   ||   _   ||_     _||  |
+|       ||       ||       |  |   |  |       ||  | |  |  |   |  |  |
+|      _||       ||       |  |   |  |  _   | |  |_|  |  |   |  |__|
+|     |_ |   _   ||   _   |  |   |  | |_|   ||       |  |   |   __
+|_______||__| |__||__| |__|  |___|  |_______||_______|  |___|  |__|
+
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the GUS mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mZ-bot> [0mWassup, it's ya boi Z-bot. How can I slide into your DMs today?
+> I am sad.
+
+[96mZ-bot> [0mLooks like the movie got lost in translation. Can you remind me of the title? Mind giving me another movie?
+> I am happy.
+
+[96mZ-bot> [0mLooks like the movie got lost in translation. Can you remind me of the title? Mind giving me another movie?
+> I am angry.
+
+[96mZ-bot> [0mLooks like the movie got lost in translation. Can you remind me of the title? Mind giving me another movie?
+> :quit
+
+[96mZ-bot> [0mAight, see ya! Hope to be able to help you in the future.
